@@ -1,31 +1,29 @@
 .right-side {
-       /* width: 45%;
-        height: 80%;*/
-        position: absolute;
+      
+        height: 80%;
+       position: absolute;
        /* bottom: 0;*/
-        right: 21px;
-        width: 55%;
-        height: 93%;
-        bottom: 149px;
+        right: 60px;
+        /* width: 55%;
+        height: 63%; */
+        bottom: 330px;
 }
 
 .right-side img {
         height: 100%;
         position: absolute;
-        left: 60%;
-        bottom: -13px;
-        transform: translate(-50%);
+        left: 50%;
+        bottom: 20px;
+        transform: translate(-70%);
         transition:  bottom 1s left 1s;
 }
 
 .right-side:hover .shape {
-        bottom: -70px;
+        bottom:  -40px;
 }
 
 .right-side:hover .brand {
-        left:45%;
+        left: 58%;
 }
 
-.w-2\/5 {
-        width: 34%;
-    }
+
