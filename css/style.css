@@ -162,7 +162,7 @@
         left: 50%;
         transform: translate(-50%,-50%);
        
-        color: rgb(12, 12, 12);
+        color:  rgb(255, 255, 255);
       }
     
       .catagories-picture {
@@ -175,6 +175,8 @@
         padding: 2px;
     }
     
-    
+    .image {
+      clip-path: ellipse(57% 61% at 42% 72%);   
+}
 
 
